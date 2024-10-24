@@ -6,12 +6,19 @@ crc start
 ```
 login as oc kubeadmin
 
-## Kustomize
-```
-brew install kustomize
-```
+install
+service mesh operator
 
-## KServe install
+
+## KServe
+https://github.com/kserve/kserve/blob/master/docs/OPENSHIFT_GUIDE.md#installation-with-service-mesh 
+
+https://www.deleeuw.me.uk/posts/Deploying-IBM-Watson-NLP-to-KServe-Modelmesh-OpenShift/
+
+https://thenewstack.io/kserve-a-robust-and-extensible-cloud-native-model-server/ 
+
+
+## KServe ModelMesh install
 https://github.com/kserve/modelmesh-serving/blob/main/docs/install/install-script.md 
 
 

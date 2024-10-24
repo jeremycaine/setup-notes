@@ -1,4 +1,5 @@
 # postgres
+[Source](https://suedbroecker.net/2024/01/20/cheatsheet-run-a-postgresql-container-with-podman-and-podman-compose/#step-2-install-podman-compose)
 
 ## Pg in Podman
 Setup
