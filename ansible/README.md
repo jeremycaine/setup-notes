@@ -34,5 +34,5 @@ pip install ansible
 From this git repo directory
 ```
 cd ansible/postgres
-ansible-playbook postgresql.yml --ask-become-pass
+ansible-playbook postgresql.yml
 ```

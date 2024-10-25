@@ -2,10 +2,13 @@
 Notes on how to setup various software installs and cloud services
 
 ## Elasticsearch Local
-Instructions [here](elastic.md)
-
-## OpenShift Local
-Instructions [here](openshift-local.md)
+Instructions [here](./elastic/README.md)
 
 ## Podman Local
-Instructions [here](podman.md)
+Instructions [here](./podman/README.md)
+
+## KServe
+Instructions [here](./kserve/README.md)
+
+## Ansible
+Instructions [here](./ansible/README.md)
